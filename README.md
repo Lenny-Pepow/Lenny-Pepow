@@ -1,2 +1,2 @@
-#I like opensource
-  but i can't code
+I like open source
+I use garuda btw
