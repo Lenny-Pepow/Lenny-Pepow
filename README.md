@@ -1,2 +1,1 @@
-I like open source
-I use debian btw
+Using NixOs. Im trying to make my config as undestandable as possible in my .dotfiles repo.
